@@ -1,0 +1,5 @@
+.env
+positions.json
+*.log
+__pycache__/
+venv/

